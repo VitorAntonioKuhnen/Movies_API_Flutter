@@ -1,4 +1,4 @@
-# novo_projeto_02_06
+# Projeto de Filmes com API en Flutter
 
 A new Flutter project.
 
